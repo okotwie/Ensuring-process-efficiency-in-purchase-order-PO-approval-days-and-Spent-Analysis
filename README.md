@@ -1,0 +1,2 @@
+# Ensuring-process-efficiency-in-purchase-order-PO-approval-days-and-Spent-Analysis
+Analysis reviewed 203 suppliers with material groups which include asset, etc with a yearly spent analysis show orders in material groups and buyer’s spent. Recommend where firms see the need to adapt strategies to minimise cost in specific category by ensuring timely approval of purchase orders, by creating an l dashboard to monitor key indexes. 
